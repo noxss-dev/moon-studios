@@ -1,46 +1,26 @@
-# Holo Web
+# Moon Studios 🎨🌙
+Your favorite images, generated
+with a prompt. ⌨️
 
-Holo Web is a few stylesheets that attempt to imitate the Android “Holo” themes.
+With an Holo interface. (Android Nostalgia 😿)
+
+Released under the OpenSSL + SSLeay license. ⚖️
+
+That's Moon Studios. 😽
+## Try it Out 🥹
+### Cak3y 🍰
+Cak3y is a selection of images, selected with a prompt. In Italian. 🇮🇹🍕🍝
+«Ciao Cakey, fammi un cane muscoloso 💪»
+
+«Ciao Cakey, disegna una cagna piccolina, per favore 😉»
+
+Generates images in one second even on 30KBps speed (not 30Kbps, 30KBps) ⚡🖼️
+
+And YOU can contribuite. We don't ask for money. We ask for helping with the program. 😎
+### Coming Soon, Verity 🙂
+«Hello, I'm verity, your personal helper friend. Ask me anything, I know everything (something is coming in 3 days)»
+
+heard that right.
 
 
-## Holo-ify your site
-If you want to Holo-ify HTML elements on your page, you just need to include two files:
-* “holo-base-elements.css”, which defines the sizes of the elements
-* One of the following, which will color the page like the corresponding Holo theme:
-    - “holo-hc-dark-elements.css” (Honeycomb Holo Dark)
-    - “holo-hc-light-elements.css” (Honeycomb Holo Light)
-    - “holo-ics-dark-elements.css” (Ice Cream Sandwich Holo Dark)
-    - “holo-ics-light-elements.css” (Ice Cream Sandwich Holo Light)
-    - “holo-kk-dark-elements.css” (KitKat Holo Dark)
-    - “holo-kk-light-elements.css” (KitKat Holo Light)
-
-## Add Holo widgets
-You can use widgets like action bars (currently available) and tabs (coming soon) by adding other stylesheets and specifying classes:
-* “holo-base-widgets.css”, which defines the sizes of the elements
-* One of the following, which will color the widgets like the corresponding Holo theme:
-    - “holo-hc-dark-widgets.css” (Honeycomb Holo Dark)
-    - “holo-hc-light-widgets.css” (Honeycomb Holo Light)
-    - “holo-ics-dark-widgets.css” (Ice Cream Sandwich Holo Dark)
-    - “holo-ics-light-widgets.css” (Ice Cream Sandwich Holo Light)
-    - “holo-kk-dark-widgets.css” (KitKat Holo Dark)
-    - “holo-kk-light-widgets.css” (KitKat Holo Light)
-* To add an action bar, add a `<header>` element with the class `holo-actionBar`: `<header class="holo-actionBar">` (use a `<footer>` element for a bottom action bar)
-
-Note: adding the base stylesheet will automatically add padding for action bars.
-
-## Make it work on older mobile browsers
-One great use of Holo Web is to make mobile web sites look like native Android apps.  Holo Web includes a script to make sure all widgets respond to touch properly in mobile WebKit (Mobile Safari, Android Browser, Chrome for Android).
-* Make sure you include the “holo-touch.js” file in your project.
-* Add a script tag to your page: `<script type="text/javascript" src="holo-touch.js"></script>`.
-
-## The Roboto Font
-holo-base-elements.css imports basic Roboto by default.  If you need more weights or character sets, you can load them through [Google Web Fonts](http://google.com/fonts#UsePlace:use/Collection:Roboto).
-
-## Known issues
-* Certain form elements (checkboxes, radio buttons) are only properly themed in WebKit-based browsers (e.g. Safari, Chrome) and partially themed in Presto (older Opera) and the latest version of Trident (IE10+).
-* Certain form elements, such as range sliders, are unsupported in some older browsers.
-
-The above issues are the result of browser limitations or lack of documented solutions.
-
-## Contributing to Holo Web
-Contributions to this project are welcome.  Please follow standard [commit guidelines](http://git-scm.com/book/ch5-2.html#Commit-Guidelines).
+All of this, in one Studio: Moon Studios.
